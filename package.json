@@ -1,6 +1,6 @@
 {
   "name": "ember-cli-i18n-observer",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Injects i18n.locale to observe ember-cli-i18n changes.",
   "directories": {
     "doc": "doc",
@@ -45,7 +45,8 @@
     "ember.js",
     "ember-cli",
     "ember-addon",
-    "i18n"
+    "i18n",
+	"locale"
   ],
   "ember-addon": {
     "configPath": "tests/dummy/config"
